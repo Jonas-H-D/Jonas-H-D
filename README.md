@@ -8,9 +8,9 @@ I hope to use my coding ability to make the world a better place and meet amazin
 
 When not @ecole42 getting awsome coding skills in C I am usually
 
- 🏋🏼‍♂️ doing some crossfit \n
- ⛷enjoying the mountain \n
- 🧘‍♂️ teaching yoga
- 📽 watching movies
+🏋🏼‍♂️ I am doing some crossfit
+⛷enjoying the mountain
+🧘‍♂️ teaching yoga
+📽 watching movies
  
  
