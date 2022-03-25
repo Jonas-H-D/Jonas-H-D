@@ -2,7 +2,7 @@
 ### Bonjour (Hi) 👋
 
 
-**My name is Jonas**
+My name is **Jonas**
 
 I hope to use my coding ability to make a difference and meet amazing people around the world.
 
