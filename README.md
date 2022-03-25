@@ -9,7 +9,7 @@ I hope to use my coding ability to make a difference and meet amazing people aro
 ![giphy](https://user-images.githubusercontent.com/72163711/143255500-b1d423c9-b110-43ae-9d63-2c50d71ff1f7.gif)
 
 <p align="center">
-  <img src="https://github.com/waldyr/Sublime-Installer/blob/master/sublime_text.png?raw=true" alt="Sublime's custom image"/>
+  <img src="https://user-images.githubusercontent.com/72163711/143255500-b1d423c9-b110-43ae-9d63-2c50d71ff1f7.gif" alt="Sublime's custom image"/>
 </p>
 
 
