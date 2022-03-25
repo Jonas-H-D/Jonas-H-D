@@ -10,9 +10,9 @@ I hope to use my coding ability to make a difference and meet amazing people aro
 </p>
 
 
-When not @ecole42 getting awsome coding skills in **C**, I am usually
+When not **@ecole42** getting awsome coding skills in **C**, I am usually
 
-🏋🏼‍♂️ doing some crossfit
-⛷ enjoying the mountain
-🧘‍♂️ teaching yoga
-📽 watching movies
+🏋🏼‍♂️ doing some **crossfit**
+⛷ enjoying the **mountain**
+🧘‍♂️ teaching **yoga**
+📽 watching **movies**
